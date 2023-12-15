@@ -1,0 +1,13 @@
+name: dataviz_cz363_final
+title: dataviz_cz363_final
+username: chuyuanzhong
+account: chuyuanzhong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10803635
+bundleId: 8052308
+url: https://chuyuanzhong.shinyapps.io/dataviz_cz363_final/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .localized|.Rapp.history|data_preprocess.Rmd|investor_byvc.xlsx
